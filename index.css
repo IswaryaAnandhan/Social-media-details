@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(173,216,230);
+}
+.box-part{
+    background-color: whitesmoke;
+    padding: 50px 20px;
+    margin: 30px  0px;
+}
+.fa{
+    color: rgb(0, 132, 255);
+}
+a{
+    border-bottom: 1px solid blue;
+}
+p{
+    font-size: 14px;
+}
+.box{
+    padding: 50px 0px;
+}
